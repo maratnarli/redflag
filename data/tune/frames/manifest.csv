@@ -1,0 +1,16 @@
+image,source_video,condition,frame_index,time_seconds
+data/tune/frames/day/day_03_ugroza_01.jpg,data/tune/day/day_03_ugroza.mp4,day,154,5.138
+data/tune/frames/day/day_03_ugroza_02.jpg,data/tune/day/day_03_ugroza.mp4,day,461,15.382
+data/tune/frames/day/day_03_ugroza_03.jpg,data/tune/day/day_03_ugroza.mp4,day,768,25.626
+data/tune/frames/day/day_03_ugroza_04.jpg,data/tune/day/day_03_ugroza.mp4,day,1075,35.869
+data/tune/frames/day/day_03_ugroza_05.jpg,data/tune/day/day_03_ugroza.mp4,day,1382,46.113
+data/tune/frames/night/night_03_01.jpg,data/tune/night/night_03.mp4,night,146,6.089
+data/tune/frames/night/night_03_02.jpg,data/tune/night/night_03.mp4,night,440,18.352
+data/tune/frames/night/night_03_03.jpg,data/tune/night/night_03.mp4,night,732,30.53
+data/tune/frames/night/night_03_04.jpg,data/tune/night/night_03.mp4,night,1026,42.793
+data/tune/frames/night/night_03_05.jpg,data/tune/night/night_03.mp4,night,1318,54.972
+data/tune/frames/fog/fog_03_01.jpg,data/tune/fog/fog_03.mp4,fog,33,1.1
+data/tune/frames/fog/fog_03_02.jpg,data/tune/fog/fog_03.mp4,fog,99,3.3
+data/tune/frames/fog/fog_03_03.jpg,data/tune/fog/fog_03.mp4,fog,164,5.467
+data/tune/frames/fog/fog_03_04.jpg,data/tune/fog/fog_03.mp4,fog,230,7.667
+data/tune/frames/fog/fog_03_05.jpg,data/tune/fog/fog_03.mp4,fog,296,9.867
