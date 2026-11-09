@@ -1,0 +1,17 @@
+﻿image,condition,use_clahe,danger_pred,threats,detection_count,relative_path,danger_gt,comment,outcome
+day_p_03.jpeg,day,False,1,person,10,data/test/day/day_p_03.jpeg,0,Ешқандай кедергі жоқ,FP
+day_p_03.jpeg,day,True,1,person,9,data/test/day/day_p_03.jpeg,0,Ешқандай кедергі жоқ,FP
+day_p_04.jpeg,day,False,1,person person,7,data/test/day/day_p_04.jpeg,0,Жақын мотоцикл қауіпті аймақтан тыс орналасқан. Орталықтағы мотоциклдер ескертуге қажетті өлшемге жетпейді.,FP
+day_p_04.jpeg,day,True,1,person person,7,data/test/day/day_p_04.jpeg,0,Жақын мотоцикл қауіпті аймақтан тыс орналасқан. Орталықтағы мотоциклдер ескертуге қажетті өлшемге жетпейді.,FP
+day_p_06.jpeg,day,False,1,person,3,data/test/day/day_p_06.jpeg,0,"Жолдың ортасында мотоцикл бар, бірақ оның өлшемі ескерту шегіне жетпейді. Сол жақтағы көлік қауіпті аймақтан тыс.",FP
+day_p_06.jpeg,day,True,1,person,4,data/test/day/day_p_06.jpeg,0,"Жолдың ортасында мотоцикл бар, бірақ оның өлшемі ескерту шегіне жетпейді. Сол жақтағы көлік қауіпті аймақтан тыс.",FP
+day_p_08.jpeg,day,False,1,truck,1,data/test/day/day_p_08.jpeg,0,"Кедергі жоқ, жүргізуші жолы ашық",FP
+day_p_08.jpeg,day,True,1,truck bus,2,data/test/day/day_p_08.jpeg,0,"Кедергі жоқ, жүргізуші жолы ашық",FP
+day_p_09.jpeg,day,False,1,person,4,data/test/day/day_p_09.jpeg,0,Жол ашық,FP
+day_p_09.jpeg,day,True,1,person,5,data/test/day/day_p_09.jpeg,0,Жол ашық,FP
+day_p_11.jpeg,day,False,1,person,10,data/test/day/day_p_11.jpeg,0,"Жолдың ортасындағы көліктер алыста орналасқан. Жаяу жүргіншілер мен автобус қауіпті аймақтан тыс, сондықтан ескерту қажет емес.",FP
+day_p_11.jpeg,day,True,1,person person,11,data/test/day/day_p_11.jpeg,0,"Жолдың ортасындағы көліктер алыста орналасқан. Жаяу жүргіншілер мен автобус қауіпті аймақтан тыс, сондықтан ескерту қажет емес.",FP
+fog_road_09.jpeg,fog,False,0,,3,data/test/fog/fog_road_09.jpeg,1,Тұманды жағдайда жаяу жүргінші жолдың қауіпті аймағында орналасқан. Соқтығысу қаупін ескерту қажет.,FN
+fog_road_09.jpeg,fog,True,0,,4,data/test/fog/fog_road_09.jpeg,1,Тұманды жағдайда жаяу жүргінші жолдың қауіпті аймағында орналасқан. Соқтығысу қаупін ескерту қажет.,FN
+fog_road_11.jpeg,fog,False,0,,2,data/test/fog/fog_road_11.jpeg,1,Тұманды жағдайда жаяу жүргінші жолдың қауіпті аймағында орналасқан. Соқтығысу қаупін ескерту қажет.,FN
+fog_road_11.jpeg,fog,True,0,,2,data/test/fog/fog_road_11.jpeg,1,Тұманды жағдайда жаяу жүргінші жолдың қауіпті аймағында орналасқан. Соқтығысу қаупін ескерту қажет.,FN
