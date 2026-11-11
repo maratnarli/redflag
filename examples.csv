@@ -1,9 +1,0 @@
-﻿image,condition,use_clahe,danger_pred,threats,detection_count,relative_path,danger_gt,comment,outcome
-day_p_01.jpeg,day,False,1,person person,7,data/test/day/day_p_01.jpeg,1,Жолдың орталық бөлігінде жақын орналасқан мотоцикл жүргізушісі бар.,TP
-day_p_02.jpeg,day,False,0,,10,data/test/day/day_p_02.jpeg,0,"Орталық аймақтағы көлік алыста орналасқан, ал жақын көліктер қауіпті аймақтан тыс. Ескерту шарттары орындалмайды.",TN
-day_p_03.jpeg,day,False,1,person,10,data/test/day/day_p_03.jpeg,0,Ешқандай кедергі жоқ,FP
-fog_road_09.jpeg,fog,False,0,,3,data/test/fog/fog_road_09.jpeg,1,Тұманды жағдайда жаяу жүргінші жолдың қауіпті аймағында орналасқан. Соқтығысу қаупін ескерту қажет.,FN
-day_p_01.jpeg,day,True,1,person person,7,data/test/day/day_p_01.jpeg,1,Жолдың орталық бөлігінде жақын орналасқан мотоцикл жүргізушісі бар.,TP
-day_p_02.jpeg,day,True,0,,9,data/test/day/day_p_02.jpeg,0,"Орталық аймақтағы көлік алыста орналасқан, ал жақын көліктер қауіпті аймақтан тыс. Ескерту шарттары орындалмайды.",TN
-day_p_03.jpeg,day,True,1,person,9,data/test/day/day_p_03.jpeg,0,Ешқандай кедергі жоқ,FP
-fog_road_09.jpeg,fog,True,0,,4,data/test/fog/fog_road_09.jpeg,1,Тұманды жағдайда жаяу жүргінші жолдың қауіпті аймағында орналасқан. Соқтығысу қаупін ескерту қажет.,FN
