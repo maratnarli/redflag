@@ -63,7 +63,7 @@ detections = detect(frame, conf=0.25, use_clahe=False)
 
 ## Орнату
 
-Python 3.12 қолданылады. Баптау тәжірибелері (`compare_*.py`) Python 3.10.11 ортасында жүргізілген.
+Python 3.10–3.12 қолданылады (тексерілгені: 3.10.11 — баптау тәжірибелері, 3.12.10 — қосымша).
 
 ```bash
 python3 -m venv .venv
@@ -140,6 +140,7 @@ streamlit run app.py
 | Darina Evstafeva | Түнде | баптау, 7 кадр | [Pexels](https://www.pexels.com/video/creepy-night-road-in-forest-18138981/) | Pexels License |
 
 Баптау жинағындағы 4 қосымша фотосуреттің дереккөздері мен пайдалану шарттары `data/sources.csv` файлында әлі жоқ: белгісіз.
+Динара порогты баптауда қолданған 15 кадр (күндіз, түнде, тұманда 5-тен) және 4 қосымша фотосурет бөлек жинақ: кадрлардың шығу тегі `data/tune/frames/manifest.csv` файлында.
 
 ## ЖИ пайдалану
 
