@@ -35,7 +35,7 @@ def enhance(frame):
     return cv2.cvtColor(merged, cv2.COLOR_LAB2BGR)
 
 
-def detect(frame, conf=0.4, use_clahe=False):
+def detect(frame, conf=0.25, use_clahe=False):
     """BGR кескінін қабылдап, анықталған нысандар тізімін қайтарады."""
     if frame is None or frame.size == 0:
         raise ValueError("Кескін бос. Файл жолын немесе бейнеден кадрдың оқылғанын тексеріңіз.")
