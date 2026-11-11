@@ -11,6 +11,7 @@
 """
 
 import tempfile
+import os
 
 import cv2
 import numpy as np
@@ -143,6 +144,7 @@ with video_tab:
             index += 1
 
         cap.release()
+        os.remove(video_path)
         progress.progress(1.0)
 
         if timeline:
