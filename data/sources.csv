@@ -1,4 +1,13 @@
 ﻿file;condition;source_url;author;license;changes
+tune/frames/fog/fog_extra_01.jpg;fog;https://www.pexels.com/ru-ru/photo/10242572/;Yura Forrat; Pexels license;фото из Pexels
+tune/frames/fog/fog_extra_02.jpg;fog;https://www.pexels.com/ru-ru/photo/20078754/;Nasr Al; Pexels license;фото из Pexels
+tune/frames/night/night_extra_01.jpg;night;https://www.pexels.com/ru-ru/photo/1483856/;Brett Sayles; Pexels license;фото из Pexels
+tune/frames/night/night_extra_02.jpg;night;https://www.pexels.com/ru-ru/photo/4165423/;MANAS PALKAR; Pexels license;фото из Pexels
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
 test\day\day_p_01.jpeg;day;https://www.pexels.com/video/dashcam-footage-of-driving-through-a-busy-road-5763001/;Том Фиск;Pexels License;скриншот из видео
 test\day\day_p_02.jpeg;day;https://www.pexels.com/video/busy-urban-street-with-traffic-and-pedestrians-38690334/;Altaf Shah;Pexels License;скриншот из видео
 test\day\day_p_03.jpeg;day;https://www.pexels.com/video/busy-urban-street-with-traffic-and-pedestrians-38690334/;Altaf Shah;Pexels License;скриншот из видео
